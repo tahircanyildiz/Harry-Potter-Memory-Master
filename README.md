@@ -1,5 +1,5 @@
 # Harry-Potter-Memory-Master
-Kotlin dili kullanarak bir memeory master oyunu gerçekleştirdim.
+Kotlin dili kullanarak bir memory master oyunu gerçekleştirdim.
 -------------------------------------------------------------------------
 Memory Master kart oyununda amaç; arkası dönük olan kartların ön yüzlerini döndürerek, aynı olan resimleri bulmaya çalışmaktır.
 Apk dosyası üzerinden oyunu indirip, kayıt olup oynayabilirsiniz.
